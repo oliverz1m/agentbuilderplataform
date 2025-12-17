@@ -174,7 +174,7 @@ ollama pull phi3
 ollama pull nomic-embed-text
 
 # 3. Clonar e rodar
-git clone https://github.com/seu-usuario/agent-builder-platform.git
+git clone https://github.com/oliverz1m/agentbuilderplatform.git
 cd agent-builder-platform
 npm install
 npm run dev
